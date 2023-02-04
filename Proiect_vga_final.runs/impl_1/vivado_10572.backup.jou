@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sun May 22 23:34:28 2022
+# Process ID: 10572
+# Current directory: D:/Proiect_vga_final/Proiect_vga_final.runs/impl_1
+# Command line: vivado.exe -log vga_driver.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vga_driver.tcl -notrace
+# Log file: D:/Proiect_vga_final/Proiect_vga_final.runs/impl_1/vga_driver.vdi
+# Journal file: D:/Proiect_vga_final/Proiect_vga_final.runs/impl_1\vivado.jou
+# Running On: DESKTOP-ROOP1B8, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 2, Host memory: 16841 MB
+#-----------------------------------------------------------
+source vga_driver.tcl -notrace
